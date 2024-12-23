@@ -1,0 +1,57 @@
+npm init -y
+npm i express dotenv
+
+update JSON folder
+
+
+API-1
+URL : http://127.0.0.1:8081/
+Method:GET
+Required Fields:None 
+Access Type:Public 
+
+API-2
+URL : http://127.0.0.1:8081/user/
+Method:GET
+Required Fields:None 
+Access Type:Public 
+
+
+API-3
+URL : http://127.0.0.1:8081/user/create/
+Method:POST
+Required Fields:None 
+Access Type:Public 
+
+API-4
+URL : http://127.0.0.1:8081/user/del 
+Method:DELETE
+Required Fields:None 
+Access Type:Public 
+
+API-5
+URL : http://127.0.0.1:8081/user/all
+Method:GET
+Required Fields:None 
+Access Type:Public 
+
+========================
+
+API-6
+URL : http://127.0.0.1:8081/prod/ 
+Method:GET
+Required Fields:None 
+Access Type:Public 
+
+
+API-7
+URL : http://127.0.0.1:8081/prod/create 
+Method:POST
+Required Fields:None 
+Access Type:Public 
+
+API-8
+URL : http://127.0.0.1:8081/prod/remove
+Method:DELETE
+Required Fields:None 
+Access Type:Public

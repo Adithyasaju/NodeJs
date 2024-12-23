@@ -1,0 +1,24 @@
+npm init -y
+npm i express
+
+API info
+
+APT URL:http://127.0.0.1.8081/
+Method Type:GET
+Rqquired Fields:None
+Access Type:Public
+
+APT URL:http://127.0.0.1.8081/
+Method Type:POST
+Rqquired Fields:None
+Access Type:Public
+
+APT URL:http://127.0.0.1.8081/
+Method Type:PUT
+Rqquired Fields:None
+Access Type:Public
+
+APT URL:http://127.0.0.1.8081/
+Method Type:DELETE
+Rqquired Fields:None
+Access Type:Public
