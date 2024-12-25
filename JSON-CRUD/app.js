@@ -7,6 +7,9 @@ import apiRouter from './routes/apiRouter.js'
 //create express app
 let app=express();
 
+//read form data/post body data
+app.use(express.json())
+
 //load env variable values
 dotenv.config({'path':"./config/dev.env"})
 let port=process.env.PORT;
