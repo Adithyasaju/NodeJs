@@ -1,0 +1,12 @@
+npm init -y
+npm i nodemon express mongoose morgan chalk cors dotenv bcrypt jsonwebtoken
+npm i -g nodemon
+
+enable JS -ES6 Module features
+---------------------------------
+add key:value 
+"type":"module"
+
+  "scripts": {
+    "start": "nodemon app.js"
+},
